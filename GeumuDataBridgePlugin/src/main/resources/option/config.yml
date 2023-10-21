@@ -1,0 +1,11 @@
+ip: 127.0.0.1
+port: 6840
+
+now_ip: 127.0.0.1
+
+db:
+  db_host: '192.168.0.5'
+  db_port: 3306
+  db_database: 'server_databridge'
+  db_username: 'root@192.168.0.2'
+  db_password: '1234'

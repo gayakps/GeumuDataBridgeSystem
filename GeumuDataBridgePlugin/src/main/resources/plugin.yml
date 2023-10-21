@@ -1,0 +1,11 @@
+name: GeumuDataBridgePlugin
+version: '${project.version}'
+main: gaya.pe.kr.core.GeumuDataBridgePlugin
+depend:
+  - GayaSoft
+api-version: '1.16'
+authors: [GAYA_SOFT]
+
+commands:
+  db:
+  dsave:

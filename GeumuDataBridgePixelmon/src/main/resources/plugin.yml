@@ -1,0 +1,5 @@
+name: GayaSoft
+version: '${version}'
+main: gaya.pe.kr.GayaSoftMain
+api-version: 1.16
+description: Test

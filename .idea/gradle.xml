@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/velocity-player-data-bridge" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/velocity-player-data-bridge" />
+            <option value="$PROJECT_DIR$/velocity-player-data-bridge/api" />
+            <option value="$PROJECT_DIR$/velocity-player-data-bridge/buildSrc" />
+            <option value="$PROJECT_DIR$/velocity-player-data-bridge/native" />
+            <option value="$PROJECT_DIR$/velocity-player-data-bridge/proxy" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
